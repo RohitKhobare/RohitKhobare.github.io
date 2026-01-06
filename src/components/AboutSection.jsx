@@ -12,22 +12,27 @@ export const AboutSection = () => {
         <div className="grid grid-cols-1 md:grid-cols-2 gap-12 items-center">
           <div className="space-y-6">
             <h3 className="text-2xl font-semibold">
-              Passionate Web Developer & Tech Creator
+              Passionate Web Developer and Software Engineer
             </h3>
-
             <p className="text-muted-foreground">
-              With over 5 years of experience in web development, I specialize
-              in creating responsive, accessible, and performant web
-              applications using modern technologies.
+              I’m a passionate Computer Engineering student with hands-on
+              experience in web development, and software engineering projects.
+              I enjoy creating responsive, accessible, and visually clean web
+              interfaces while ensuring performance and usability.
             </p>
-
+            <p className="text-muted-foreground">
+              From developing full-fledged academic projects to working as a Web
+              Development and Cloud Engineer intern, I’ve built a strong
+              foundation in modern development tools and workflows. I’m driven
+              by curiosity, continuous learning, and the desire to turn ideas
+              into practical, real-world solutions.
+            </p>
             <p className="text-muted-foreground">
               I'm passionate about creating elegant solutions to complex
               problems, and I'm constantly learning new technologies and
               techniques to stay at the forefront of the ever-evolving web
               landscape.
             </p>
-
             <div className="flex flex-col sm:flex-row gap-4 pt-4 justify-center">
               <a href="#contact" className="cosmic-button">
                 {" "}
